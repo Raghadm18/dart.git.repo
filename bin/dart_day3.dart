@@ -1,5 +1,5 @@
 void main() {
-  print("Hello class from vs");
+  print("Hello class from github");
 }
 
 //فتحنا نلف جديد حطينا دارت بعدين ننشا ريبو في الملف اول خطوة
